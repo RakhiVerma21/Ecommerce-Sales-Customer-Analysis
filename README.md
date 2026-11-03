@@ -36,13 +36,13 @@ This project focuses on analyzing e-commerce sales and customer data using **Mic
 - Orders by Customer Type
 - Sales by Customer Type
 - Customer Details and Sales Summary
-- 
+
 # Power BI Dashboard Screenshots
 
-# Sales Overview
+### Sales Overview
 ![Sales Overview](Sales_Overview.png)
 
-# Customer Analysis
+### Customer Analysis
 ![Customer Analysis](Customer_Analysis.png)
 
 # SQL Concepts Used
