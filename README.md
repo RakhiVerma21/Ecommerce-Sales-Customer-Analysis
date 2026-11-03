@@ -70,4 +70,4 @@ This project focuses on analyzing e-commerce sales and customer data using **Mic
 # Conclusion
 This project helped me gain practical experience in the end-to-end data analysis process, from data preparation and SQL analysis to dashboard development using Power BI.
 
-**Created by**:Rakhi Verma
+**Created by**: Rakhi Verma
